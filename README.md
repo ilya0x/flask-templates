@@ -10,7 +10,7 @@
 
 <br>
 
-## <img src="./images/vscode-20.png" alt="Flask"> Visual Studio Code Extensions
+## <img src="./images/vscode-20.png" alt="VS Code"> Visual Studio Code Extensions
 
 <br>
 
