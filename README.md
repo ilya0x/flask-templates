@@ -43,6 +43,9 @@ setup.
 
 ## <img src="./images/vscode-20.png" alt="VS Code"> Visual Studio Code Extensions
 
+<b>[flask-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.flask-snippets)
+</b> - Flask snippets collections.
+
 <br>
 
 ## 📝Notes
